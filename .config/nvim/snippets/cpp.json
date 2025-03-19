@@ -1,0 +1,25 @@
+{
+  "template": {
+    "prefix": "cpp",
+    "body": [
+      "#include<bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "#define int int64_t",
+      "#define pii pair<int, int>",
+      "#define st first",
+      "#define nd second",
+      "#define pb push_back",
+      "#define sz(x) (int)(x).size()",
+      "#define all(x) (x).begin, (x).end()",
+      "",
+      "int32_t main() {",
+      "\tios_base::sync_with_stdio(false);",
+      "\tcin.tie(NULL);",
+      "\t",
+      "\t$0",
+      "}"
+    ],
+    "description": "c++ template"
+  }
+}
