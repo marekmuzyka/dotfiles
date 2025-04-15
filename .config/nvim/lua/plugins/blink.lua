@@ -10,7 +10,7 @@ return {
       },
       completion = {
         accept = { auto_brackets = { enabled = false } },
-        documentation = { window = { border = "rounded", } }
+        menu = { border = "none" }
       },
       cmdline = {
         enabled = false

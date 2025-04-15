@@ -15,5 +15,7 @@ opt.splitbelow = true
 
 opt.showmode = false
 
+opt.winborder = "rounded"
+
 -- netrw config
 vim.g.netrw_banner = 0

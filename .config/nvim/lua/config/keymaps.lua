@@ -13,5 +13,5 @@ map("n", "<Esc>", "<cmd>nohlsearch<CR><cmd>echo<CR>")
 map("n", "-", "<cmd>Ex<CR>")
 
 -- copy and paste using the system clipboard
-map("n", "<leader>y", '"+y')
-map("n", "<leader>p", '"+p')
+map({"n", "v"}, "<leader>y", '"+y')
+map({"n", "v"}, "<leader>p", '"+p')
