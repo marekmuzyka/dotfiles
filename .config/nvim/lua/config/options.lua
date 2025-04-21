@@ -19,3 +19,5 @@ opt.winborder = "rounded"
 
 -- netrw config
 vim.g.netrw_banner = 0
+
+vim.diagnostic.config({ virtual_text = true })

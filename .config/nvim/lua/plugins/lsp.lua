@@ -3,7 +3,8 @@ return {
   opts = {
     servers = {
       clangd = {},
-      ocamllsp = { single_file_support = true }
+      ocamllsp = { single_file_support = true },
+      pylsp = {}
     }
   },
   config = function(_, opts)

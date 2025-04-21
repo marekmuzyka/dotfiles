@@ -13,7 +13,8 @@ return {
   opts = {
     formatters_by_ft = {
       cpp = { "clang-format" },
-      ocaml = { "ocamlformat" }
+      ocaml = { "ocamlformat" },
+      python = { "black" }
     },
   }
 }
